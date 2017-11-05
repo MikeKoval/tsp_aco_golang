@@ -3,7 +3,8 @@
 Implemeted using Golang
 
 See main.go for more details
-##To start
+
+## To start
 Just run `bin/main` on Linux or `bin/main.exe` on Windows
 
 ## Other Details
