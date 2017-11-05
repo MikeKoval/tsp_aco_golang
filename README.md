@@ -5,7 +5,7 @@ Implemeted using Golang
 See main.go for more details
 
 ## To start
-Just run `bin/main` on Linux or `bin/main.exe` on Windows
+Just run `./main` on Linux or `main.exe` on Windows
 
 ## Other Details
 The implementation only considers the ```DIMENSION``` and ```NODE_COORD_SECTION``` fields in the files given. It uses the former to get the total number of cities and the latter to get the coordinates of those cities
